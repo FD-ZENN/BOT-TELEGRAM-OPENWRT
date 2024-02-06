@@ -17,8 +17,8 @@ openclash_Status=$(/etc/init.d/openclash enabled)
 zerotier_Status=$(/etc/init.d/zerotier status)
 cloudflared_Status=$(/etc/init.d/cloudflared status)
 # Bot Telegram token dan chat ID
-bot_token="5641499258:AAGUu5_-BsbMQe5ozC2eHF-JoA0Uqa0qsMc"
-chat_id="-814272036"
+bot_token="isi bot token anda"
+chat_id="isi chat id anda"
 
 # Fungsi untuk mengirim pesan ke bot Telegram
 send_telegram_message() {
